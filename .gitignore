@@ -1,0 +1,8 @@
+# Snooze Button Roast — keep the repo clean of local run artefacts
+__pycache__/
+*.pyc
+/output/
+*.log
+.DS_Store
+.vscode/
+*.swp
